@@ -4,7 +4,7 @@ collection: publications
 category: 
 permalink: https://icaaiml.com/elementor-1155/
 excerpt: 'This paper is about application of LLM+RAG in question answering system for National Eligiblity Entrance Test. The number 2 is left for future work.'
-date: '2024'
+date: 2024
 venue: 'AIP Conference Proceesing'
 slidesurl: 
 paperurl: 'https://bit.ly/NeetQA'
