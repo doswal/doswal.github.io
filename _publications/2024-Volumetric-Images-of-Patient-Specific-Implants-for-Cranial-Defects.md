@@ -4,7 +4,7 @@ collection: publications
 category: dataset
 permalink: https://data.mendeley.com/datasets/ywnjr7gnty/1
 excerpt: 'This paper is about application of LLM+RAG in question answering system for National Eligiblity Entrance Test. The number 2 is left for future work.'
-date: '2024'
+date: 2024
 venue: 'Common Data, Mendeley Data'
 slidesurl: 
 paperurl: 'https://bit.ly/Manuscript-Data-In-Brief'
