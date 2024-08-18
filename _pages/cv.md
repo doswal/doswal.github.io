@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 [Click here to get Resume](https://bit.ly/dhiren-resume-ml-24)
 ======
