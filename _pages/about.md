@@ -9,7 +9,7 @@ redirect_from:
 
 Introduction
 ======
-I am Dhiren Oswal, pursuing Master's of Science in Computer Science at University of Southern California. I graduated from Vishwakarma Institute of Information Technology, Pune with a Bachelor's in Technology - Artificial Intelligence and Data Science. I have been grateful to research under the guidance of [Dr. Parikshit Mahalle](https://parikshitmahalle.com/) in the verticals of Deep learning and Generative AI aplication for Medical Imaging. Auto-generate Patient-Specififc Cranial Implants [Vid](https://bit.ly/Auto-Implant-Vid) focuses on Data collection, and modulation of Sparse Deep Nets and Generative Adverserial Networks to auto design implants for cranioplasty. The focus of project lies in reducing the time and cost overhead. 
+I am Dhiren Oswal, pursuing Master's of Science in Computer Science at University of Southern California. I graduated from Vishwakarma Institute of Information Technology (VIIT), Pune with a Bachelor's in Technology - Artificial Intelligence and Data Science. I have been grateful to research under the guidance of [Dr. Parikshit Mahalle](https://parikshitmahalle.com/) in the verticals of Deep learning and Generative AI aplication for Medical Imaging. Auto-generate Patient-Specififc Cranial Implants [Vid](https://bit.ly/Auto-Implant-Vid) focuses on Data collection, and modulation of Sparse Deep Nets and Generative Adverserial Networks to auto design implants for cranioplasty. The focus of project lies in reducing the time and cost overhead. 
 
 Research Interests
 ======
